@@ -11,7 +11,7 @@ Contributors Alex Chabot, Marissa Salas, Shelley Manccini
 
 ## Built With
 
-Project completed using markdown language in Jupyter Notebook.
+Project completed using markdown language in Jupyter Notebook, VS Code, and GitHub markdown
 
 ## Course Description
 
